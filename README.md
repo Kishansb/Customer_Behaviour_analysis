@@ -45,3 +45,7 @@ The objective is to identify purchasing trends, revenue distribution, and custom
 - Improve subscription conversion strategy
 - Increase promotions for low-performing categories
 - Target high-value customers with loyalty programs
+
+
+## 📊 Dashboard Preview
+<img width="1434" height="804" alt="Screenshot 2026-02-21 110216" src="https://github.com/user-attachments/assets/1fb4eaac-d96b-4a8a-ad37-980a2f9415a0" />
